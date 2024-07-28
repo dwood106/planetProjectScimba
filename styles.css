@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: tan;
+    width:100%;
+    margin-bottom:70px;
+    
+}
+img{
+    width:400px;
+}
+h1{
+    font-size:60px;
+    
+}
+.h1Mars , .h2Mars{
+    color:#d33d1f;
+}
+.h1Earth , .h2Earth{
+    color:#2a8442;
+}
+footer{
+    font-style:italic;
+    color: navy;
+    font-size: smaller;
+    text-align:left;
+
+
+}
+a:hover{
+    font-size: 30px;
+}
+a{
+    color:rgb(77, 43, 9);
+    
+}
+a:visited{
+    color:rgb(77, 43, 9);
+
+}
+img:hover{
+    width:450px;
+}
+hr{
+    border:2px solid darkred;
+}
